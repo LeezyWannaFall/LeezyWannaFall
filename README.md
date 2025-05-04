@@ -1,6 +1,6 @@
 ### Привет! 👋 Я LeezyWannaFall
 
-🚀 Начинающий разработчик на C | 📚 Студент School 21 | 💻 В будущем Golang разработчик
+🚀 Начинающий разработчик | 📚 Студент School 21
 
 ## 🔧 Мой стек технологий
 
@@ -35,14 +35,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LeezyWannaFall&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyWannaFall&layout=compact&hide=html,css)
-</details>
-
-<details>
-<summary>🏆 Достижения</summary>
-  
-- [x] Завершил проект s21_matrix и SimpleBashUtils
-- [x] Прошел Devops практики в школе 21
-- [ ] В процессе: Изучение ООП и C++
 </details>
 
 ## 📫 Как связаться
