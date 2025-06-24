@@ -26,9 +26,6 @@
 - [C-Matrix-Library](https://github.com/LeezyWannaFall/C-Matrix-Library) - Library for working with matrices (C language)
 - [Cat-Grep-Bash-Utils](https://github.com/LeezyWannaFall/Cat-Grep-Bash-Utils) - Cat & grep utilities implemented on C language
 
-### Working on
-- [C7_BrickGame_v1.0](https://github.com/LeezyWannaFall/test_repository/tree/main/tetris) - Tetris on С language
-
 <details>
 <summary>📊 GitHub statistics</summary>
   
