@@ -25,6 +25,7 @@
 ### Main
 - [C-Matrix-Library](https://github.com/LeezyWannaFall/C-Matrix-Library) - Library for working with matrices (C language)
 - [Cat-Grep-Bash-Utils](https://github.com/LeezyWannaFall/Cat-Grep-Bash-Utils) - Cat & grep utilities implemented on C language
+- [CppMatrixLibrary](https://github.com/LeezyWannaFall/CppMatrixLibrar) - Library for working with matrices (C++ language)
 
 <details>
 <summary>📊 GitHub statistics</summary>
