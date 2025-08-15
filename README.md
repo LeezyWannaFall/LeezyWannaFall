@@ -23,6 +23,7 @@
 ## 🌟 My projects
 
 ### Main
+- [Tetris](https://github.com/LeezyWannaFall/Tetris) - Console tetris utilities implemented on C language
 - [C-Matrix-Library](https://github.com/LeezyWannaFall/C-Matrix-Library) - Library for working with matrices (C language)
 - [Cat-Grep-Bash-Utils](https://github.com/LeezyWannaFall/Cat-Grep-Bash-Utils) - Cat & grep utilities implemented on C language
 - [CppMatrixLibrary](https://github.com/LeezyWannaFall/CppMatrixLibrary) - Library for working with matrices (C++ language)
