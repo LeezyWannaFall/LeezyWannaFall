@@ -1,4 +1,4 @@
-### 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼 Welcome to LeezyWannaFall's github page 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼
+### 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼 LeezyWannaFall 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼
 
 🚀 Beginner developer | 📚 School 21 student
 
