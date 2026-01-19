@@ -22,7 +22,7 @@
 
 ### Main
 - [Tetris](https://github.com/LeezyWannaFall/Tetris) - Console tetris utilities implemented on C language
-- [C-Matrix-Library](https://github.com/LeezyWannaFall/C-Matrix-Library) - Library for working with matrices (C language)
+- [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system. 
 - [Brickgame](https://github.com/LeezyWannaFall/Brickgame) - Snake game based on C++ and qt, Tetris based on C
 - [CppMatrixLibrary](https://github.com/LeezyWannaFall/CppMatrixLibrary) - Library for working with matrices (C++ language)
 
