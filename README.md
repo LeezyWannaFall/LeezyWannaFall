@@ -24,17 +24,10 @@
 
 ### Main
 - [Go-IssueTracker-API](https://github.com/LeezyWannaFall/Go-IssueTracker-API) - A lightweight REST API for managing issues, built with Go, PostgreSQL, and Chi router. The project follows clean architecture practices and demonstrates layered backend development.
-- [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system. 
+- [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system.
+- [Go-TicTacToe-Service](https://github.com/LeezyWannaFall/Go-TicTacToe-Service) - A lightweight Tic-Tac-Toe API built with Go. Features an unbeatable MiniMax AI, clean architecture, and dependency injection via Uber/fx.
 - [Brickgame](https://github.com/LeezyWannaFall/Brickgame) - Snake game based on C++ and qt, Tetris based on C
 - [CppMatrixLibrary](https://github.com/LeezyWannaFall/CppMatrixLibrary) - Library for working with matrices (C++ language)
-
-<details>
-<summary>📊 GitHub statistics</summary>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeezyWannaFall&show_icons=true&bg_color=100,1a002b,2e003e&title_color=c792ea&text_color=ffffff&icon_color=bb86fc&border_color=6a1b9a)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeezyWannaFall&layout=compact&hide=html,css&bg_color=100,1a002b,2e003e&title_color=c792ea&text_color=ffffff&icon_color=bb86fc&border_color=6a1b9a)
-</details>
 
 ## 📫 Links
 
