@@ -24,10 +24,10 @@
 
 ### Main
 - [Go-IssueTracker-API](https://github.com/LeezyWannaFall/Go-IssueTracker-API) - A lightweight REST API for managing issues, built with Go, PostgreSQL, and Chi router. The project follows clean architecture practices and demonstrates layered backend development.
+- [Go-URL-Shortener](https://github.com/LeezyWannaFall/Go-URL-Shortener) -  A fast, lightweight, and containerized URL shortening service written in Go.
 - [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system.
 - [Go-TicTacToe-Service](https://github.com/LeezyWannaFall/Go-TicTacToe-Service) - A lightweight Tic-Tac-Toe API built with Go. Features an unbeatable MiniMax AI, clean architecture, and dependency injection via Uber/fx.
 - [Brickgame](https://github.com/LeezyWannaFall/Brickgame) - Snake game based on C++ and qt, Tetris based on C
-- [CppMatrixLibrary](https://github.com/LeezyWannaFall/CppMatrixLibrary) - Library for working with matrices (C++ language)
 
 ## 📫 Links
 
