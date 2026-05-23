@@ -1,6 +1,6 @@
 ### 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼 LeezyWannaFall 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼
 
-🚀 Beginner developer | 📚 School 21 student
+🚀 Beginner go developer 
 
 ## 🔧 My stack
 
