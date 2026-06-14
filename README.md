@@ -29,7 +29,3 @@
 - [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system.
 - [Go-TicTacToe-Service](https://github.com/LeezyWannaFall/Go-TicTacToe-Service) - A lightweight Tic-Tac-Toe API built with Go. Features an unbeatable MiniMax AI, clean architecture, and dependency injection via Uber/fx.
 - [Brickgame](https://github.com/LeezyWannaFall/Brickgame) - Snake game based on C++ and qt, Tetris based on C
-
-## 📫 Links
-
-[![Telegram](https://img.shields.io/badge/Telegram-LeezyWannaFall-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/leezysybau)
