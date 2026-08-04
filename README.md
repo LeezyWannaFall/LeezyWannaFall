@@ -1,31 +1,21 @@
 ### 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼 LeezyWannaFall 𓇼⠀⠀⠀෴ ҉҉ ҉҉෴⠀⠀⠀𓇼
 
-🚀 Beginner go developer 
+🚀 Go developer 
 
 ## 🔧 My stack
 
 ### Languages
+![Golang](https://img.shields.io/badge/Golang-0A0FFF?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0A0FFF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-0A0FFF?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0A0FFF?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-![Make](https://img.shields.io/badge/Make-003366?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-654FF0?style=for-the-badge&logo=cmake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0FFF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)
-![net/http](https://img.shields.io/badge/net%2Fhttp-0A0FFF?style=for-the-badge&logo=go&logoColor=white)
 
 ## 🌟 My projects
 
 ### Main
 - [Go-Room-Booking-API](https://github.com/LeezyWannaFall/Room-Booking-Service) - A robust, production-ready backend service built with Go, designed to manage meeting room reservations with precision.
 - [Go-IssueTracker-API](https://github.com/LeezyWannaFall/Go-IssueTracker-API) - A lightweight REST API for managing issues, built with Go, PostgreSQL, and Chi router. The project follows clean architecture practices and demonstrates layered backend development.
-- [Go-URL-Shortener](https://github.com/LeezyWannaFall/Go-URL-Shortener) - A fast, lightweight, and containerized URL shortening service written in Go.
+- [AnotherAIBot](https://github.com/LeezyWannaFall/AnotherAIBot) - A Telegram bot in Go that talks to an LLM, remembers conversation history per user, and supports a per-user customizable persona.
 - [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system.
-- [Go-TicTacToe-Service](https://github.com/LeezyWannaFall/Go-TicTacToe-Service) - A lightweight Tic-Tac-Toe API built with Go. Features an unbeatable MiniMax AI, clean architecture, and dependency injection via Uber/fx.
-- [Brickgame](https://github.com/LeezyWannaFall/Brickgame) - Snake game based on C++ and qt, Tetris based on C
