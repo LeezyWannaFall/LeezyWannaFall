@@ -16,6 +16,6 @@
 
 ### Main
 - [Go-Room-Booking-API](https://github.com/LeezyWannaFall/Room-Booking-Service) - A robust, production-ready backend service built with Go, designed to manage meeting room reservations with precision.
-- [Go-IssueTracker-API](https://github.com/LeezyWannaFall/Go-IssueTracker-API) - A lightweight REST API for managing issues, built with Go, PostgreSQL, and Chi router. The project follows clean architecture practices and demonstrates layered backend development.
+- [GoreFlow](https://github.com/LeezyWannaFall/GoreFlow) - Service for durable background job execution written in Go.
 - [AnotherAIBot](https://github.com/LeezyWannaFall/AnotherAIBot) - A Telegram bot in Go that talks to an LLM, remembers conversation history per user, and supports a per-user customizable persona.
 - [GoRoguelikeGame](https://github.com/LeezyWannaFall/GoRoguelikeGame) - A 2D turn-based roguelike written in Go, featuring procedural generation, monsters, items, and save system.
